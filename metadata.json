@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lex Simulacra",
+  "description": "An AI-powered legal strategy simulation. Master the art of litigation against adaptive AI adversaries in realistic courtroom scenarios.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
